@@ -1,11 +1,22 @@
 Título (30)
 ===========
 
+GUIA DE BÉRCHULES
+
 Descripción breve (80)
 ======================
 
+En esta guía encontrarás toda la información de interés para visitar Bérchules.
+
 Descripción completa (4000)
 ===========================
+
+Esta guía de Bérchules te será muy útil para moverte por sus calles, localizar cada bar, restaurante, alojamiento, o lugares visitables de interés turístico o cultural, podrás conocer donde se celebran sus principales fiestas, o descubrir nuestros senderos. Bérchules es un municipio de la Alpujarra de Granada, enclaustrado en el Parque Nacional de Sierra Nevada.
+Esta localidad está enclavada en la vertiente sur del Parque Natural de Sierra Nevada, en alta montaña, entre bellos parajes y nacimientos de aguas ferruginosas y carbonatadas. Bérchules cuenta con un manantial llamado Fuente Agria y situado en la hondonada del río Guadalfeo. Sus casas blancas de tejados planos y sus calles escalonados, perfectamente adaptadas a lo quebrado del terreno conforman la típica arquitectura alpujarreña. 
+Una singularidad de Bérchules que merece ser destacada es que celebra la Nochevieja en agosto. Este hecho se debe a que un reciente 31 de diciembre se produjo un corte de luz en el pueblo privando a los vecinos de seguir las doce campanadas y despedir el año. Los berchuleros decidieron entonces tomarse las uvas en pleno verano.
+El callejero te permitirá localizar cada lugar de interés y cada bar o restaurante donde poder degustar los ricos productos derivados del cerdo, manjares como el jamón y productos de la Alpujarra.
+El conjunto de todas las características arquitectónicas, culturales y paisajísticas convierten éste municipio en un destino turístico excepcional. El turismo en el espacio rural, se está convirtiendo en un componente más de la calidad de vida, en una alternativa a la vida urbana y representa actualmente para los alpujarreños uno de los mayores recursos económicos. Por lo que se plantean actuaciones que deben hacer hincapié en la conservación y potenciación de nuestros recursos naturales, culturales y turísticos.
+
 
 Etiquetas	
 ===========
@@ -22,3 +33,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
