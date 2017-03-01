@@ -2,7 +2,6 @@
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "es.juntadeandalucia.mapea.sepim.berchules"
-		ios-CFBundleIdentifier  = "es.juntadeandalucia.cdau.berchules"
 		versionCode = "120" 
 		version     = "1.2.0" >
 
