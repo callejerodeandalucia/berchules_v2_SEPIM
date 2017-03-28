@@ -385,7 +385,7 @@ $(document).on("pageinit", "#busqueda", function() {
 function buscarGeobusquedas(query, callback){
 	loading(true);
 	$.ajax({
-        url: urlGB + "/search?",
+        url: urlGB + "/search",
         dataType: "jsonp",
         jsonp: 'json.wrf',
         data: {
