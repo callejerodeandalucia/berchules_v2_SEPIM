@@ -1,6 +1,6 @@
 //******** configuración **********************//
 url = "http://www.callejerodeandalucia.es/sepim/api";
-urlGB = "http://geobusquedas-sigc.juntadeandalucia.es/geobusquedas/sepim_alajar"; 
+urlGB = "http://www.callejerodeandalucia.es/pruebas/geobusquedas/sepim_berchules"; 
 idAplicacion = 159; //id de la aplicación
 //*********************************************//
 aplicacion = null;
