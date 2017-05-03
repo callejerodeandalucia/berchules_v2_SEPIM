@@ -406,9 +406,6 @@ function listarResultadosGB(result){
 	if (datosList!=null){
 		var htmlElements = [];
 		for(i=0;i<datosList.length;i++){
-                    //Nuevo metodo de busqueda, la forma de busqueda anterior era erronea
-//                         clearVal = datosList[i].nombre.replace(/\"/g,"");
-//			 var liHtml = "<li><a href='javascript:buscarGeobusquedas(\""+clearVal+"\",directResultGB)'>"+datosList[i].nombre+"</a></li>";
 			 var liHtml = "<li><a href='javascript:verDatoGB(" + JSON.stringify(datosList[i]) + ")'>";
 			 liHtml += datosList[i].nombre;
 			 liHtml += "</a></li>";
